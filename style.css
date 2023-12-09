@@ -5,6 +5,18 @@ h1{
 h2{
     color: brown;
 }
+
+hr{
+    color:black;
+    border-style:dashed;
+}
+#red-h1{
+    color:blue;
+}
+.brown-h2{
+    color:brown;
+    text-align: justify;
+}
 *{
-    background-color: blanchedalmond;
+    background-color:blanchedalmond;
 }
