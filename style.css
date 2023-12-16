@@ -1,9 +1,16 @@
 h1{
-    color: blue;
+width: 100%;
+background-color: aqua;
+text-align: center;
+padding: 10px;
+margin: 10px;
+border: 5px solid blue;
+font-size: 35px;
 }
 
 h2{
     color: brown;
+    
 }
 
 hr{
@@ -24,4 +31,37 @@ hr{
 img {
     height: 200px;
     width: 600px;
+}
+.make-bold{
+    font-weight: bold;
+}
+
+#intro{
+    height: 200px;
+    width: 69%;
+    text-align: justify;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+#skillsets{
+    height: auto;
+    width: 28%;
+    margin: -215px 1% 20px 71%;
+    border-radius: 10px;
+    border: 4px dashed blue;
+}
+
+#skill_name{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid blueviolet;
+    border-radius: 50px;
+    word-wrap: break-word;
+    height: auto;
+    width: auto;
+    margin: 5px;
+    padding: 8px;
+    color: brown;
+
 }
